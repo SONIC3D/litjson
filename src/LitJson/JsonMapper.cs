@@ -17,7 +17,7 @@ using System.IO;
 using System.Reflection;
 
 
-namespace LitJson
+namespace PPP.ExtLib.LitJson
 {
     internal struct PropertyMetadata
     {

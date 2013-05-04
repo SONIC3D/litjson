@@ -12,7 +12,7 @@
 using System;
 
 
-namespace LitJson
+namespace PPP.ExtLib.LitJson
 {
     public class JsonException : ApplicationException
     {

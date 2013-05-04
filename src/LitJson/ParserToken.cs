@@ -9,7 +9,7 @@
 #endregion
 
 
-namespace LitJson
+namespace PPP.ExtLib.LitJson
 {
     internal enum ParserToken
     {
